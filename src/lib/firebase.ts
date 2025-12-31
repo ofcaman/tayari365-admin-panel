@@ -4,14 +4,14 @@ import { getFirestore } from 'firebase/firestore';
 import { getStorage } from 'firebase/storage';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDTeZg1VMGWJ4yM2BDcvjhEGb4ZS5AdccU",
-  authDomain: "earnity-92a88.firebaseapp.com",
-  databaseURL: "https://earnity-92a88-default-rtdb.firebaseio.com",
-  projectId: "earnity-92a88",
-  storageBucket: "earnity-92a88.appspot.com",
-  messagingSenderId: "388474556644",
-  appId: "1:388474556644:web:0a824f8da6d7d334d19cf1",
-  measurementId: "G-T0Y9XCJVD7"
+  apiKey: "your key",
+  authDomain: "your key",
+  databaseURL: "your key",
+  projectId: "your key",
+  storageBucket: "your key",
+  messagingSenderId: "your key",
+  appId: "your key",
+  measurementId: "your key"
 };
 
 const app = initializeApp(firebaseConfig);
